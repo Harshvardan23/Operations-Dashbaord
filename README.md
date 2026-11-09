@@ -31,3 +31,7 @@ Looker Studio
  ▼
 Auto-refresh — every Monday, 9:00 AM
 ```
+
+## Dashboard Preview
+
+![Operations Dashboard](DASHBOARD%20PREVIEW/GITHUB_Weekly_Operations_Dashboard_page-0001.jpg)
